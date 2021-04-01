@@ -149,4 +149,3 @@
 [Zero](https://github.com/Mr2er0), 
 [Ziming](https://github.com/ML-ZimingMeng/LeetCode-Python3)
 
-# Donate
